@@ -1,0 +1,63 @@
+﻿# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+conda-env/
+
+# IDE / editor
+.idea/
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
+
+# Local data and experiment outputs
+inputs/
+data/
+datasets/
+outputs/
+runs/
+logs/
+checkpoints/
+results/
+figures/
+
+# Model weights and large arrays
+*.pth
+*.pt
+*.ckpt
+*.onnx
+*.npy
+*.npz
+*.h5
+*.hdf5
+*.nii
+*.nii.gz
+
+# Generated reports / temporary files
+*.log
+*.tmp
+*.bak
+*.csv
+*.xlsx
+
+# Generated figures at repository root
+*.png
+*.jpg
+*.jpeg
+*.pdf
+
+# Keep documentation assets if explicitly needed by adding exceptions, e.g.:
+# !docs/*.png
+# !assets/*.png
