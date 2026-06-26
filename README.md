@@ -158,7 +158,7 @@ If you find this repository useful, please cite our paper:
 ```bibtex
 @inproceedings{du2026bspline,
   title={B-spline Activations as Intrinsic Uncertainty Estimators in Medical Image Segmentation},
-  author={Du, Wenju; Wu, Zhiwei; Liu, Wei; Zeng, Bing and Rao, Nini},
+  author={Du, Wenju; Wu, Zhiwei; Zeng, Bing；Rao, Nini and Liu, Wei},
   booktitle={Medical Image Computing and Computer Assisted Intervention -- MICCAI},
   year={2026}
 }
