@@ -166,4 +166,4 @@ If you find this repository useful, please cite our paper:
 
 ## Contact
 
-For questions, please contact Wenju Du.
+For questions, please contact Wenju Du：wenjudu@yzu.edu.cn
